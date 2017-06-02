@@ -13,6 +13,8 @@ public with sharing class ClassToDel {
 			system.debug('Conflict Win Round 1');
 			system.debug('Round 2 starts');
 			system.debug('Round 2 in progress');
+			system.debug('Round 2 in Mid');
+			
 		}
 	}
     
