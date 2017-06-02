@@ -17,6 +17,7 @@ public with sharing class ClassToDel {
 			system.debug('Commit in new Branch');
 			system.debug('Merge task in Master');
 			
+			
 		}
 	}
     
