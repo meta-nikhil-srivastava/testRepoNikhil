@@ -10,6 +10,7 @@ public with sharing class ClassToDel {
 			system.debug('Lets get a confict to see it works');
 			system.debug('Wow it works');
 			system.debug('User1 commits');
+			system.debug('Conflict Win Round 1');
 		}
 	}
     
