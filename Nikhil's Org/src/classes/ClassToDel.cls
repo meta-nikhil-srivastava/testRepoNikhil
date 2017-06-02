@@ -5,6 +5,7 @@ public with sharing class ClassToDel {
 		for(integer i=0; i<=10; i++){
 			
 			system.debug('Warning Stay in your Limits');
+			system.debug('Consequences won\'t be favaourable');
 		}
 	}
     
